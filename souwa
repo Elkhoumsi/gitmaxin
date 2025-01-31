@@ -1,0 +1,9 @@
+Que peut-on faire avec Hyper-V sur Windows Server ?
+Hyper-V est surtout utilisé dans un environnement serveur et cloud pour 
+la virtualisation et la gestion des infrastructures IT. Voici quelques usages :
+
+Créer et gérer plusieurs machines virtuelles
+
+Chaque VM fonctionne indépendamment avec son propre OS.
+Utile pour tester des applications, héberger des services, 
+ou isoler des environnements
